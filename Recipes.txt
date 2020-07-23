@@ -6,5 +6,8 @@ Bun
 Pizza
 Mango juice
 
+Apple juice
+Briyani
+
 Thank you :)
 
